@@ -56,28 +56,6 @@ Built using **Streamlit + Google Gemini 1.5 Flash**, the application enables con
 
 ---
 
-# 🖼️ Application Preview
-
-## 🏠 Home Interface
-_Add screenshot here_
-
-## 📑 Summary Generation
-_Add screenshot here_
-
-## 💬 Question Answering
-_Add screenshot here_
-
-## 🧠 Challenge Mode
-_Add screenshot here_
-
----
-
-# 🎥 Demo Video
-
-📹 Add your demo video link here
-
----
-
 # 🛠️ Tech Stack
 
 | Technology | Purpose |
